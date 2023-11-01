@@ -1,4 +1,5 @@
-body {
-    margin: 0 auto;
-    font-family: sans-serif;
+.container {
+    column-count: 3;
+    column-gap: 20px;
+    column-rule: 4px dotted(79, 185, 227);
 }
