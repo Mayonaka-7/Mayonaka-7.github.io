@@ -4,8 +4,8 @@
     border: 0;
 }
 
-.clear {
-    clear: both;
+body {
+    width: 100%;
 }
 
 main {
@@ -20,4 +20,8 @@ article {
     -webkit-column-gap: 2em;
     -moz-column-gap: 2em;
     column-gap: 2em;
+}
+
+.clear {
+    clear: both;
 }
