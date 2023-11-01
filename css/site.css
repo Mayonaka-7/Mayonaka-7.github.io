@@ -22,6 +22,10 @@ article {
     column-gap: 2em;
 }
 
+article p {
+    margin-bottom: 1em;
+}
+
 .clear {
     clear: both;
 }
